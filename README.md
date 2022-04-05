@@ -2,6 +2,10 @@
   
 ## Ｃｈａｅｈｙｅｏｎ Ｋｉｍ
   
+¡𝙷𝚘𝚕𝚊! 𝙸'𝚖 𝙲𝚑𝚊𝚎𝚗𝚢 𝚊 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝙺𝚘𝚛𝚎𝚊.  
+𝙸𝚝 𝚑𝚊𝚜𝚗'𝚝 𝚋𝚎𝚎𝚗 𝚕𝚘𝚗𝚐 𝚋𝚞𝚝 𝙸 𝚊𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚝𝚘 𝚙𝚞𝚛𝚜𝚞𝚎 𝚖𝚢 𝚌𝚊𝚛𝚎𝚎𝚛 𝚊𝚜 𝚊 𝚍𝚊𝚝𝚊 𝚜𝚌𝚒𝚎𝚗𝚝𝚒𝚎𝚜𝚝.
+<br><br>
+
 ### 🛠 t e c h 
 [![JS](https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white)](https://github.com/chaehyeon-kim/TODO-List) 
 [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/chaehyeon-kim/fullPage) 
