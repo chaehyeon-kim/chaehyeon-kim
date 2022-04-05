@@ -12,16 +12,28 @@
 [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/chaehyeon-kim/fullPage) 
 <br>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/chaehyeon-kim/SpringMVC)
+[![Python](https://img.shields.io/badge/Python-05122A?style=flat-square&logo=Python&logoColor=white)](https://github.com/chaehyeon-kim/SpringMVC)
+[![R](https://img.shields.io/badge/R-1572B6?style=flat-square&logo=R&logoColor=white)](https://github.com/chaehyeon-kim/SpringMVC)
+[![SAS](https://img.shields.io/badge/SAS-1EB4D4?style=flat-square&logo=SAS&logoColor=white)](https://github.com/chaehyeon-kim/SpringMVC)
+[![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square&logo=MATLAB&logoColor=white)](https://github.com/chaehyeon-kim/SpringMVC)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/chaehyeon-kim/weather) 
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://github.com/chaehyeon-kim/weather) 
-[![R](https://img.shields.io/badge/R-1572B6?style=flat-square&logo=R&logoColor=white)](https://github.com/chaehyeon-kim/weather) 
+[![C](https://img.shields.io/badge/C-0047AB?style=flat-square&logo=C&logoColor=white)](https://github.com/chaehyeon-kim/weather) 
 [![VBA](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://github.com/chaehyeon-kim/weather) 
 <br>
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Jchaehyeon-kim/Spring_Weather)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://github.com/chaehyeon-kim/React_Login)
 [![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/chaehyeon-kim/SpringMVC)
+<br>
+  
+[![Git](https://img.shields.io/badge/Git-f34f29?style=flat-square&logo=Git&logoColor=white)](https://github.com/Jchaehyeon-kim/Spring_Weather)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AWS&logoColor=white)](https://github.com/chaehyeon-kim/React_Login)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://github.com/chaehyeon-kim/React_Login)
+[![Eclipse](https://img.shields.io/badge/Eclipse-202255?style=flat-square&logo=eclipse&logoColor=white)](https://github.com/chaehyeon-kim/SpringMVC)
+<br>
+
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-EA4335?style=flat-square&logo=TensorFlow&logoColor=white)](https://github.com/Jchaehyeon-kim/Spring_Weather)
+[![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=PyTorch&logoColor=white)](https://github.com/chaehyeon-kim/React_Login)
 <br><br>
 
 ### 🐣 m e 
