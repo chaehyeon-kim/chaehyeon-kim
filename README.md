@@ -20,7 +20,7 @@
 [![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/chaehyeon-kim/SpringMVC)
 <br><br>
 
-### 🌹 m e 
+### 🐣 m e 
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://7chaeny25.tistory.com/)
 [![Code Pen](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:7chaeny25@gmail.com)
 <br><br>
