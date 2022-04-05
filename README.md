@@ -2,7 +2,7 @@
   
 ## Ｃｈａｅｈｙｅｏｎ Ｋｉｍ
   
-### 🌹 t e c h 🌹
+### 🛠 t e c h 
 [![JS](https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white)](https://github.com/chaehyeon-kim/TODO-List) 
 [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/chaehyeon-kim/fullPage) 
 [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/chaehyeon-kim/fullPage) 
