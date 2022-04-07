@@ -28,6 +28,7 @@
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white)](https://github.com/chaehyeon-kim/React_Login)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://github.com/chaehyeon-kim/React_Login)
 [![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/chaehyeon-kim/SpringMVC)
+[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)](https://github.com/chaehyeon-kim/React_Login)
 <br>
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://github.com/chaehyeon-kim/React_Login)
@@ -42,6 +43,11 @@
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white)](https://github.com/chaehyeon-kim/React_Login)
 [![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)](https://github.com/Jchaehyeon-kim/Spring_Weather)
 [![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apacheHadoop&logoColor=white)](https://github.com/chaehyeon-kim/React_Login)
+<br>
+
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://github.com/chaehyeon-kim/React_Login)
+[![Windows](https://img.shields.io/badge/windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/Jchaehyeon-kim/Spring_Weather)
+[![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=white)](https://github.com/chaehyeon-kim/React_Login)
 <br><br>
 
 ### 🐣 m e 
