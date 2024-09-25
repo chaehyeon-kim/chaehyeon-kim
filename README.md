@@ -45,8 +45,8 @@
 <br><br>
 
 ### 🐣 m e 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)](https://github.com/chaehyeon-kim)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chaehyeon-kim/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)](https://github.com/chaehyeon-kim)
 [![Code Pen](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:7chaeny25@gmail.com)
 <br><br>
 
